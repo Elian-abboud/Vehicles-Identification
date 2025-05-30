@@ -1,4 +1,4 @@
- # 🚦🚗 Vehicles-Identification
+ # 🚦🚗 Smart Border for Vehicles Identification (Graduation project 2)
 
 This AI-powered system is designed to recognize, identify, count, classify, and extract features of vehicles crossing specific borders. Leveraging advanced computer vision and machine learning algorithms, the system accurately monitors vehicle movements in real-time video feeds, including estimating their speed at every moment. The system can effectively differentiate between various types of vehicles such as cars, trucks, buses, bicycles, and more.
 
